@@ -1,0 +1,12 @@
+2022-04-28 20:25:43 INFO     Model: RotatE
+2022-04-28 20:25:43 INFO     Data Path: ../data/FB15k
+2022-04-28 20:25:43 INFO     #entity: 14951
+2022-04-28 20:25:43 INFO     #relation: 1345
+2022-04-28 20:25:43 INFO     #train: 483142
+2022-04-28 20:25:43 INFO     #valid: 50000
+2022-04-28 20:25:43 INFO     #test: 59071
+2022-04-28 20:25:43 INFO     Model Parameter Configuration:
+2022-04-28 20:25:43 INFO     Parameter gamma: torch.Size([1]), require_grad = False
+2022-04-28 20:25:43 INFO     Parameter embedding_range: torch.Size([1]), require_grad = False
+2022-04-28 20:25:43 INFO     Parameter entity_embedding: torch.Size([14951, 2000]), require_grad = True
+2022-04-28 20:25:43 INFO     Parameter relation_embedding: torch.Size([1345, 1000]), require_grad = True
