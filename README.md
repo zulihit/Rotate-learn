@@ -19,8 +19,7 @@ https://openreview.net/forum?id=HkgEQnRqYQ
 
 关于数据集部分，在原作者仓库中下载，复制到主目录中即可，没有的文件夹可能需要创建一下
 
-
-![image](https://user-images.githubusercontent.com/68625084/170435952-447cbb8d-fca9-47e2-9432-ed14aae29f9c.png)
+![image](https://user-images.githubusercontent.com/68625084/170436074-c3b3dcc2-1b18-4154-a1e5-f7d68cbce48a.png)
 
 
 **实现的模型**
