@@ -7,6 +7,10 @@
 
 本代码基于pytorch实现，代码格式非常正规，适合初学者学习
 
+知乎详细介绍：
+
+https://zhuanlan.zhihu.com/p/520284915
+
 原作者代码：
 
 https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding
