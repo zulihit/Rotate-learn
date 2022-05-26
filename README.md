@@ -106,3 +106,8 @@ The KGE models usually take about half an hour to run 10000 steps on a single Ge
 | HITS@10 | .884 | .533 | .959 | .571 |
 
 模型运行的结果
+
+**更加基础的TransE代码**
+
+https://github.com/zulihit/transE-learn
+
