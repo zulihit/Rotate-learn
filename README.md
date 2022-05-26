@@ -80,9 +80,9 @@ The run.sh script provides an easy way to search hyper-parameters:
 
     bash run.sh train RotatE FB15k 0 0 1024 256 1000 24.0 1.0 0.0001 200000 16 -de
     
-这里是使用bash脚本来运行程序，更加的方便，对于不用的模型最佳的超参数都在best_config.sh文件里
+这里是使用bash脚本来运行程序，更加的方便，对于实现的模型最佳超参数都在best_config.sh文件里
 
-需要在linux终端里面运行
+需要哪个复制出来在linux终端里面运行即可
 
 **Speed**
 
